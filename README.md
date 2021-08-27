@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Solanister!
-- 👀 I’m interested in ... everything xD"
-- 🌱 I’m currently learning ... Python, JS, HTML5, CSS, APP development!
-- 💞️ I’m looking to collaborate for our Community
-- 📫 How to reach me ... solanisteroriginal@gmail.com
+- 👋 Pode me chamar de @Solanister
+-🌱 Aprendendo no momento ... Python, JS, HTML5, CSS, APP development!
+- 💞️ Buscando ajudar a comunidade gamer, geek e nerd 🖖
+- 📫 Contato profissional 👉 solanisteroriginal@gmail.com
 
 <!---
 Solanister/Solanister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
